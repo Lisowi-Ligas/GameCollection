@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">GameCollectionApp</string>
+    <string name="app_name">Game Collection App</string>
+    <string name="button_addCollection">Add Game Collection</string>
+
 </resources>
